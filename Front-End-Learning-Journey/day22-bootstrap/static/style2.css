@@ -1,0 +1,27 @@
+.main{
+    padding-top: 10%;
+    height: 100vh;
+    text-align: center;
+    background-image: url(books.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.about-us{
+    height: 100vh;
+    /* text-align: center; */
+    background-color: grey;
+    padding: 2%;
+}
+
+.contact-us{
+    height: 100vh;
+    background-color: white;
+    padding: 2%;
+}
+img{
+    height: 50vh;
+   
+}
