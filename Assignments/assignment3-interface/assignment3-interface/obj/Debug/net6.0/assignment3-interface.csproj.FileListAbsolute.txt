@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\bin\Debug\net6.0\assignment3-interface.exe
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\bin\Debug\net6.0\assignment3-interface.deps.json
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\bin\Debug\net6.0\assignment3-interface.runtimeconfig.json
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\bin\Debug\net6.0\assignment3-interface.dll
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\bin\Debug\net6.0\assignment3-interface.pdb
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\assignment3-interface.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\assignment3-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\assignment3-interface.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\assignment3-interface.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\assignment3-interface.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\assignment3-interface.dll
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\refint\assignment3-interface.dll
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\assignment3-interface.pdb
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\assignment3-interface.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\assignment3-interface\assignment3-interface\obj\Debug\net6.0\ref\assignment3-interface.dll
