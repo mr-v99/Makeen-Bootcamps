@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\Session4\Session4\bin\Debug\net6.0\Session4.exe
+C:\Users\Toshiba\Desktop\Session4\Session4\bin\Debug\net6.0\Session4.deps.json
+C:\Users\Toshiba\Desktop\Session4\Session4\bin\Debug\net6.0\Session4.runtimeconfig.json
+C:\Users\Toshiba\Desktop\Session4\Session4\bin\Debug\net6.0\Session4.dll
+C:\Users\Toshiba\Desktop\Session4\Session4\bin\Debug\net6.0\Session4.pdb
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\Session4.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\Session4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\Session4.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\Session4.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\Session4.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\Session4.dll
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\refint\Session4.dll
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\Session4.pdb
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\Session4.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\Session4\Session4\obj\Debug\net6.0\ref\Session4.dll
